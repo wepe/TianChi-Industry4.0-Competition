@@ -4,6 +4,7 @@
 
 ##解决方案
 
+[工业4.0大数据竞赛-技术方案总结](https://github.com/wepe/TianChi-Industry4.0-Competition/blob/master/%E5%B7%A5%E4%B8%9A4.0%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AB%9E%E8%B5%9B-%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E6%80%BB%E7%BB%93.pdf)
 
 ##代码说明
 ###data
